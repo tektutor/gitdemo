@@ -3,3 +3,4 @@ ubuntu1 ansible_host=localhost ansible_port=2000 ansible_user=root ansible_passw
 ubuntu2 ansible_host=localhost ansible_port=3000 ansible_user=root ansible_password=root ansible_become_user=root ansible_become_password=root ansible_private_key_file=/home/jegan/.ssh/id_rsa
 ubuntu4 ansible_host=localhost ansible_port=5000 ansible_user=root ansible_password=root ansible_become_user=root ansible_become_password=root ansible_private_key_file=/home/jegan/.ssh/id_rsa
 ubuntu3 ansible_host=localhost ansible_port=4000 ansible_user=root ansible_password=root ansible_become_user=root ansible_become_password=root ansible_private_key_file=/home/jegan/.ssh/id_rsa
+ubuntu5 ansible_host=localhost ansible_port=8000 ansible_user=root ansible_password=root ansible_become_user=root ansible_become_password=root ansible_private_key_file=/home/jegan/.ssh/id_rsa
